@@ -1,3 +1,9 @@
+dde-launchpad (2.0.31-ddelite1) unstable; urgency=medium
+
+  * feat: 修改图标拖拽入文件夹的动画速率
+
+ -- mhduiy <mhduiy@qq.com>  Thu, 16 Mar 2026 11:21:55 +0800
+
 dde-launchpad (2.0.31) unstable; urgency=medium
 
   * revert: remove automatic focus setting on launcher visibility
